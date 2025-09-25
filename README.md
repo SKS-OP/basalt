@@ -1,6 +1,6 @@
-# Basalt
+# Barra
 
-**Basalt** is a stdlib-first Go toolkit for building REST APIs with minimal boilerplate.
+**Barra** is a stdlib-first Go toolkit for building REST APIs with minimal boilerplate.
 
 It focuses on:
 
@@ -11,11 +11,11 @@ It focuses on:
 - Rich query layer with filters and **dig** (related data loading)  
 - Minimal dependencies, clear interfaces  
 
-Basalt is **not a web framework** — it’s a toolkit that plugs into whatever routing solution you prefer.
+Barra is **not a web framework** — it’s a toolkit that plugs into whatever routing solution you prefer.
 
 ---
 
 ## Installation
 
 ```bash
-go get github.com/zicare/basalt
+go get github.com/zicare/barra
